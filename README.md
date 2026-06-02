@@ -269,17 +269,9 @@ NeuroEML/
 └── README.md                    # This file
 ```
 
----
 
-## 🧪 Testing
 
-```bash
-# Run tests
-pytest tests/
 
-# Test specific module
-pytest tests/test_parser.py -v
-```
 
 ---
 
