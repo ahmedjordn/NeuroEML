@@ -429,4 +429,4 @@ Use responsibly. 🔐
 
 **Built for Security Professionals** 🛡️
 
-Last Updated: January 2025
+Last Updated: June 2026
