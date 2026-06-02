@@ -85,7 +85,7 @@ pip install -r requirements.txt
 For optimal speed and accuracy, a smaller, highly capable model is recommended.
 
 ```bash
-ollama pull phi3
+ollama pull mistral
 ```
 
 ---
@@ -101,7 +101,7 @@ VIRUSTOTAL_API_KEY=your_virustotal_api_key_here
 ABUSEIPDB_API_KEY=your_abuseipdb_api_key_here
 
 OLLAMA_HOST=http://localhost:11434
-OLLAMA_MODEL=phi3
+OLLAMA_MODEL=mistral
 OLLAMA_TIMEOUT=600
 ```
 
